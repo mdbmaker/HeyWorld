@@ -1,4 +1,3 @@
 HeyWorld
 ========
-
-My first repository
+My first Readme in my first repository
